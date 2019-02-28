@@ -1,0 +1,2 @@
+2018-12-20 16:01:44,073 - ERROR - logtest02.py[:46] - error message
+2018-12-20 16:01:44,073 - CRITICAL - logtest02.py[:47] - critical message

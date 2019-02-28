@@ -1,0 +1,30 @@
+DEBUG:root:This is a debug log.
+INFO:root:This is a info log.
+WARNING:root:This is a warning log.
+ERROR:root:This is a error log.
+CRITICAL:root:This is a critical log.
+DEBUG:root:This is a debug log.
+INFO:root:This is a info log.
+WARNING:root:This is a warning log.
+ERROR:root:This is a error log.
+CRITICAL:root:This is a critical log.
+2018-12-20 15:09:30,360=====DEBUG++++++(massage)s
+2018-12-20 15:09:30,360=====INFO++++++(massage)s
+2018-12-20 15:09:30,360=====WARNING++++++(massage)s
+2018-12-20 15:09:30,360=====ERROR++++++(massage)s
+2018-12-20 15:09:30,360=====CRITICAL++++++(massage)s
+2018-12-20 15:09:30,360=====DEBUG++++++(massage)s
+2018-12-20 15:09:30,360=====INFO++++++(massage)s
+2018-12-20 15:09:30,360=====WARNING++++++(massage)s
+2018-12-20 15:09:30,361=====ERROR++++++(massage)s
+2018-12-20 15:09:30,361=====CRITICAL++++++(massage)s
+2018-12-20 15:11:24,741=====DEBUG++++++This is a debug log.
+2018-12-20 15:11:24,742=====INFO++++++This is a info log.
+2018-12-20 15:11:24,742=====WARNING++++++This is a warning log.
+2018-12-20 15:11:24,742=====ERROR++++++This is a error log.
+2018-12-20 15:11:24,743=====CRITICAL++++++This is a critical log.
+2018-12-20 15:11:24,743=====DEBUG++++++This is a debug log.
+2018-12-20 15:11:24,743=====INFO++++++This is a info log.
+2018-12-20 15:11:24,743=====WARNING++++++This is a warning log.
+2018-12-20 15:11:24,744=====ERROR++++++This is a error log.
+2018-12-20 15:11:24,744=====CRITICAL++++++This is a critical log.
